@@ -20,7 +20,7 @@ running on `LiveKitTransport`, so the same avatar page works unchanged.
 ## Install
 
 ```bash
-pip install pipecat-livekit-avatar
+pip install git+https://github.com/Rehansanjay/pipecat-livekit-avatar
 ```
 
 Requires `pipecat-ai[livekit]` 1.x (tested with 1.0.0 and 1.16.0).
